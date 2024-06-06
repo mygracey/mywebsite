@@ -48,7 +48,7 @@ height:500px;
     border:none;
     position:relative;
     top:200px;
-    left:600px;
+    left:500px;
     cursor:pointer;
 }
 
@@ -83,7 +83,7 @@ h2{
     height:100px;
     background:black;
     position:relative;
-    top:100px;
+    top:50px;
 }
 
 .footer h3{
